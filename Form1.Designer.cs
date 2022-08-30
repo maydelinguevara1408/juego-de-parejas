@@ -234,7 +234,7 @@ namespace prueba_de_juego_de_parejas
             // 
             // label5
             // 
-            this.label5.BackColor = System.Drawing.Color.Red;
+            this.label5.BackColor = System.Drawing.Color.Yellow;
             this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label5.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
             this.label5.Location = new System.Drawing.Point(404, 2);
